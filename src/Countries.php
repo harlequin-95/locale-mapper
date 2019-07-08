@@ -62,8 +62,8 @@ final class Countries
             'currency' => 'EUR',
         ],
         [
-            'country'  => 'sv',
-            'locale' => 'sv',
+            'country'  => 'se',
+            'locale' => 'se',
             'currency' => 'EUR',
         ],
         [
